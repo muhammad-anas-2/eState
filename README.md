@@ -1,8 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* run "rails start" to run the server on your local setup
+Api for signup, signin and logout (login and logout with a token)
+OTP authentication api
+Taking CNIC pics api
+Taking bank info api
+making posts api (you can use pictures)
